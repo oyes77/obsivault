@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Fun
 #webs 
 [Weird txt gen](https://lingojam.com/WeirdTextGenerator)

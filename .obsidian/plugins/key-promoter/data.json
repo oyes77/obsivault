@@ -125,7 +125,7 @@
     "editor:focus": 8,
     "editor:toggle-bold": 22,
     "cmenu-plugin:editor:toggle-bold": 5,
-    "command-palette:open": 58,
+    "command-palette:open": 61,
     "markdown:toggle-preview": 22,
     "app:open-settings": 2,
     "editor:insert-embed": 2,

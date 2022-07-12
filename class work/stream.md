@@ -1,7 +1,4 @@
 
-
-
-
 # Resources/materiales:
 ## 1. [[https://color.adobe.com/es/create|Adobe Color]]
 ## 2. [[https://co.pinterest.com/|Pinterest]]

@@ -1,4 +1,6 @@
-# si
+---
+dg-publish: true
+---
 # staff
-tunometecabra
-	![[Pasted image 20220128140013.png|450]]
+
+![|675](https://i.imgur.com/xlqczIx.png)
