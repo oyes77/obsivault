@@ -1,4 +1,5 @@
 {
   "legacyEditor": false,
-  "communityThemeSortOrder": "alphabeticalReverse"
+  "communityThemeSortOrder": "alphabeticalReverse",
+  "promptDelete": false
 }

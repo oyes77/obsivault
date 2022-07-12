@@ -48,6 +48,12 @@ Si te interesa saber más sobre  [[Discord|Discord, haz click aquí]] , incluí 
 
 ---
 
+#### Creación de contenido
+
+Eres un intento perdido de  youtuber y necesitas música para tus videos? [[Content Creation|Aquí tienes ]] algunos canales de youtube que te van a dar justamente eso.
+
+---
+
 #### Preview
 
 Esta sección está hecha para probar temas de la página [[sample text]]
