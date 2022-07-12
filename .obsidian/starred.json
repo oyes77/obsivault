@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "✨ hub",
+      "path": "páginas web/✨ hub.md"
+    },
+    {
+      "type": "file",
+      "title": "Viewer",
+      "path": "Viewer.md"
+    }
+  ]
+}

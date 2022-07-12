@@ -1,0 +1,19 @@
+{
+  "obsidian-rich-links:create-rich-links": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}

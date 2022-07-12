@@ -1,0 +1,15 @@
+{
+  "defaultVoice": "Microsoft Sabina - Spanish (Mexico)",
+  "pitch": 0.3,
+  "rate": 1.2,
+  "volume": 1,
+  "speakLinks": false,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": true,
+  "speakEmoji": false,
+  "speakComments": false,
+  "languageVoices": [],
+  "stopPlaybackWhenNoteChanges": true
+}

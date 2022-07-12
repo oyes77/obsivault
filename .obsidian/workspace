@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f7d499b99756afd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0b1d8181784545",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📆 DAILY NOTES/2022-07-12.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5f3ca0b92437a1d7",
+        "type": "leaf",
+        "state": {
+          "type": "calibre-view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f1dc667d15525f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d578056097fc10",
+        "type": "tabs",
+        "dimension": 22.437137330754354,
+        "children": [
+          {
+            "id": "5adde0832eb9bb77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bdd5c10b5e77e5e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4d79114742cc2f53",
+        "type": "tabs",
+        "dimension": 77.56286266924565,
+        "children": [
+          {
+            "id": "fc4695572bc2ca80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04c5891e12a8bf4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#webs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "11ba3fe7e8e6572f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a49822e8c339b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48dd4440b95bd04f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f72b481ae97c40cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📆 DAILY NOTES/2022-07-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389,
+    "collapsed": true
+  },
+  "active": "8b0b1d8181784545",
+  "lastOpenFiles": [
+    "📆 DAILY NOTES/2022-07-12.md",
+    "🏡 HUB.md",
+    "non public.md",
+    "tablaXD.png",
+    "tablaXD.svg",
+    "images.md",
+    "sample text.md",
+    "si.svg",
+    "🧺 TEMPLATES/DLNT.md",
+    "📆 DAILY NOTES/2022-07-09.md"
+  ]
+}

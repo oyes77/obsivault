@@ -1,0 +1,79 @@
+{
+  "appData": {},
+  "state": {
+    "sample text.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "319daa2d-2402-40d4-aec0-5eef7151920a",
+              "initialIndex": 0,
+              "content": "First Header",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "6f678ddd-bbd1-4035-9a38-07f314faf062",
+              "initialIndex": 1,
+              "content": "Second Header",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "12be6613-2227-4856-9731-c1538375b8a7",
+              "initialIndex": 0,
+              "creationTime": 1657410567893
+            },
+            {
+              "id": "662e5d22-3b00-4e64-85a3-5da008db52ad",
+              "initialIndex": 1,
+              "creationTime": 1657410567724
+            }
+          ],
+          "cells": [
+            {
+              "id": "b5224306-0b7f-4444-8255-fa06a5c67fbb",
+              "rowId": "12be6613-2227-4856-9731-c1538375b8a7",
+              "headerId": "319daa2d-2402-40d4-aec0-5eef7151920a",
+              "type": "text",
+              "text": "Content from cell 1"
+            },
+            {
+              "id": "023eb244-c758-474b-8d8b-a7e14348a7d1",
+              "rowId": "12be6613-2227-4856-9731-c1538375b8a7",
+              "headerId": "6f678ddd-bbd1-4035-9a38-07f314faf062",
+              "type": "text",
+              "text": "Content from cell 2"
+            },
+            {
+              "id": "965c742e-19df-407e-bc14-0dcd29beb742",
+              "rowId": "662e5d22-3b00-4e64-85a3-5da008db52ad",
+              "headerId": "319daa2d-2402-40d4-aec0-5eef7151920a",
+              "type": "text",
+              "text": "Content in the first column"
+            },
+            {
+              "id": "4486cded-e48c-41d2-8d36-df4913f40071",
+              "rowId": "662e5d22-3b00-4e64-85a3-5da008db52ad",
+              "headerId": "6f678ddd-bbd1-4035-9a38-07f314faf062",
+              "type": "text",
+              "text": "Content in the second column"
+            }
+          ],
+          "tags": []
+        },
+        "shouldUpdate": false,
+        "viewType": "live-preview"
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}

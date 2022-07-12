@@ -1,0 +1,14 @@
+{
+  "githubRepo": "Tablontablon",
+  "githubToken": "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",
+  "githubUserName": "Oyes77",
+  "gardenBaseUrl": "https://tablondeltablon.netlify.app",
+  "prHistory": [],
+  "theme": "{\"name\":\"Cyber Glow\",\"author\":\"ArtexJay\",\"repo\":\"ArtexJay/Obsidian-CyberGlow\",\"screenshot\":\"Screenshot.png\",\"modes\":[\"dark\",\"light\"],\"branch\":\"main\",\"cssUrl\":\"https://raw.githubusercontent.com/ArtexJay/Obsidian-CyberGlow/main/obsidian.css\"}",
+  "baseTheme": "dark",
+  "faviconPath": "image2vector.svg",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}
