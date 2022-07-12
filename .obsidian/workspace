@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📆 DAILY NOTES/2022-07-12.md",
+            "file": "dunnowhere/discord tokens.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 DAILY NOTES/2022-07-12.md",
+                "file": "dunnowhere/discord tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "8b0b1d8181784545",
   "lastOpenFiles": [
+    "dunnowhere/discord tokens.md",
     "📆 DAILY NOTES/2022-07-12.md",
     "Viewer.md",
     "Untitled 2.md",
@@ -139,7 +140,6 @@
     "si.svg",
     "sample text.md",
     "non public.md",
-    "image2vector.svg",
-    "faces.md"
+    "image2vector.svg"
   ]
 }
